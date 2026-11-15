@@ -44,7 +44,7 @@ Y no resuelve ninguno de los dos bien por 4 barreras (observación empírica):
 
 **Pymes en general** que enfrentan la tensión administrar-eficientemente vs. emprender-para-crecer y carecen de mindset, framework, tech o acompañamiento para resolverla. El vertical inmobiliario (Vecina Inmobiliaria / Royal Inmuebles) es la **puerta de entrada y piloto**, no el límite del mercado.
 
-**Segmento inicial (primeros 10–20 clientes): por definir** (📌 decisión aplazada, 2026-11-15). Hipótesis de partida en la estrategia comercial: inmobiliarias y otros negocios de procesos relativamente sencillos — ver `notas-lean-canvas.md` §6.
+**Segmento inicial (primeros 10–20 clientes): por definir** (📌 decisión aplazada, 2026-11-15). ⚠️ Criterio candidato: segmentar por **intensidad** comercial, de servicio u operativa, no por tamaño ni sector (una empresa pequeña califica si tiene alguna intensidad alta); falta medirla en Vecina. Hipótesis de partida en la estrategia comercial: inmobiliarias y otros negocios de procesos relativamente sencillos — ver `notas-lean-canvas.md` §6.
 
 **Early adopter:** redes/franquicias de agentes independientes con modelo de confianza territorial ya validado (ej. Vecina Inmobiliaria), que ya sienten el dolor (casos perdidos, dependencia de una sola persona) y tienen presupuesto para resolverlo.
 
@@ -110,7 +110,7 @@ La arquitectura es multi-tenant (`accountId`), lo que apunta a cobro por cuenta.
 - **Infraestructura:** hosting + PostgreSQL (Supabase) + Redis
 - **LLM por ejecución de agente** (OpenAI/Anthropic) — el costo marginal que crece con el uso
 - **Equipo** (backend/frontend/agent/mobile)
-- **Onboarding/normalización de cada pyme nueva** (setup de procesos, datos, agentes) — debe bajar con cada cliente o el modelo no escala (ver condición #5)
+- **Onboarding/normalización de cada pyme nueva** (setup de procesos, datos, agentes) — debe bajar con cada cliente o el modelo no escala (ver condición #5). ⚠️ Hipótesis para bajarlo: que Koda guíe la configuración por conversación; capacidad nueva, sin verificar
 - **Demostraciones por prospecto** (hipótesis): tenant temporal con datos ficticios y créditos de IA limitados (72 h a probar) — consumo de IA por prospecto que no se convierte
 - **Control de calidad del agente proactivo** — revisar/gobernar lo que el agente dice por iniciativa propia; costo del pilar Acompañamiento que no aparece en la infraestructura
 

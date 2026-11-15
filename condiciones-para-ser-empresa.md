@@ -29,7 +29,7 @@ Un segundo tenant, fuera del ecosistema Vecina/Royal, que paga precio real (no c
 
 ## 5. La unidad económica cierra
 
-El precio por tenant cubre costo LLM + infraestructura + costo de adquisición con margen, y el costo de "normalizar" una pyme nueva (setup de procesos, datos, agentes) baja con cada cliente en vez de repetirse completo.
+El precio por tenant cubre costo LLM + infraestructura + costo de adquisición con margen, y el costo de "normalizar" una pyme nueva (setup de procesos, datos, agentes) baja con cada cliente en vez de repetirse completo (hipótesis de palanca: que Koda guíe la configuración por conversación; hoy no verificada).
 
 **Prueba:** margen bruto positivo por tenant al mes 3 y tiempo de onboarding decreciente entre cliente 2 y cliente 3.
 

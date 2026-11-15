@@ -54,14 +54,18 @@ Lectura: lo construido se concentra en ejecutar, controlar y mejorar; lo que fal
 
 ## 4. Qué cambia en la empresa — hipótesis a medir, no resultados
 
-| Cambio esperado | Hecho que lo apoya | Planeado que lo completa | Cómo se mediría |
-|---|---|---|---|
-| La operación deja de depender de la memoria de la gente | Procesos, SLA, historial, workbox | — | Casos perdidos o vencidos, SLA cumplido, contra línea base |
-| Ningún cliente queda sin respuesta | Inbox, Natalia, traspaso humano↔IA | Roy, auto-followups | Tiempo de primera respuesta; consultas sin atender |
-| El dueño ve cómo va sin preguntar | Centro de Análisis, metas comerciales | — | Uso de tableros; decisiones tomadas con ellos (cualitativo) |
-| La empresa sabe qué mejorar y lo ejecuta | MCA + agente de mejora continua | Indicadores automáticos + evaluación del cliente | Mejoras cerradas con el indicador movido |
-| La voz del cliente entra al sistema | — | Evaluación al cierre (D-135) | Calificación por proceso, tasa de respuesta |
-| Los agentes se supervisan con evidencia | Trazas, historial | Control Tower, pruebas sistemáticas | % de resultados aceptados sin corrección |
+**Pregunta que orienta la validación (2026-11-15):** ¿qué cambia en la vida de un empresario con TRESICLOS que no cambiaría, o sería mucho más difícil, con las herramientas actuales? La última columna es esa comparación; son **hipótesis sin verificar** contra competidores (ver mapa competitivo en [`notas-lean-canvas.md`](./notas-lean-canvas.md) §2).
+
+| Cambio esperado | Hecho que lo apoya | Planeado que lo completa | Cómo se mediría | ¿Un stack genérico lo consigue? ⚠️ |
+|---|---|---|---|---|
+| La operación deja de depender de la memoria de la gente | Procesos, SLA, historial, workbox | — | Casos perdidos o vencidos, SLA cumplido, contra línea base | En parte: CRM + tareas lo registran, pero caso, SLA e historial quedan en piezas separadas |
+| Ningún cliente queda sin respuesta | Inbox, Natalia, traspaso humano↔IA | Roy, auto-followups | Tiempo de primera respuesta; consultas sin atender | En parte: un CRM-WhatsApp con bot responde; lo difícil es el traspaso conservando el caso |
+| El dueño ve cómo va sin preguntar | Centro de Análisis, metas comerciales | — | Uso de tableros; decisiones tomadas con ellos (cualitativo) | Sí, en gran parte: no diferencia por sí solo |
+| La empresa sabe qué mejorar y lo ejecuta | MCA + agente de mejora continua | Indicadores automáticos + evaluación del cliente | Mejoras cerradas con el indicador movido | Difícil: exige datos del caso + agente + acta + medición en un mismo ciclo |
+| La voz del cliente entra al sistema | — | Evaluación al cierre (D-135) | Calificación por proceso, tasa de respuesta | Sí, con encuestas sueltas; la diferencia es que alimente al agente de mejora |
+| Los agentes se supervisan con evidencia | Trazas, historial | Control Tower, pruebas sistemáticas | % de resultados aceptados sin corrección | Sin verificar: depende de lo que ofrezcan hoy las plataformas de agentes |
+
+Lectura: lo que un stack genérico consigue con más dificultad es el **ciclo completo** (filas 4 y 5 juntas), no cada pieza. Es donde conviene concentrar la prueba con Vecina.
 
 ## 5. Lo que no sabemos
 

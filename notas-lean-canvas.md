@@ -112,7 +112,14 @@ Análisis condicionado: asume el claim cumplido **con evidencia** (mejora medida
 - El feedback del cliente al cierre (D-135) no figura en el embudo comercial; podría aplicarse a las demos y reforzar el pilar "aprende".
 - Dos frentes (Vecina y tenant propio) compiten por el mismo equipo: el orden acordado lo mitiga, no lo elimina.
 
-**Por decidir:** segmento inicial; qué actividades comerciales puede ejecutar el agente sin humano; condiciones comerciales que Koda podría ofrecer sola; duración y costo de la demo.
+**Resumen de diferenciación (recibido 2026-11-15) — qué aportó:**
+- **Criterio de segmento por intensidad,** no por tamaño ni sector: *comercial* (oportunidades, vendedores, clientes), *de servicio* (solicitudes, casos recurrentes) y *operativa* (procesos internos, personas, responsabilidades). Una empresa pequeña puede necesitar TRESICLOS si tiene suficiente intensidad en alguna. Candidato para definir el segmento inicial; falta medir cuánta intensidad tiene Vecina en cada una.
+- **Koda como respuesta al costo de implementación.** Riesgo: configurar TRESICLOS por empresa exige demasiada consultoría. Hipótesis: Koda (perfil operativo) permite configurar procesos y recursos conversando con IA. En la documentación del repo, Koda figura solo como copilot del MCA ("Koda universal"); no aparece capacidad de configurar procesos, por lo que sería **capacidad nueva, sin verificar**. Nombre acordado 2026-11-15: **Koda** (una grafía distinta es error de escritura).
+- **Pregunta central de validación:** qué cambia para el empresario que sería mucho más difícil con las herramientas actuales → columna nueva en `impacto-de-tresiclos.md` §4.
+- Matices: procesos humanos, automatizados o mixtos que evolucionan hacia más IA (coherente con `ai_task`); personas y agentes sobre un modelo de datos compartido; "disponibilidad 24/7" como beneficio (sin medir).
+- Lo que ese resumen no cubre y ya tenemos: voz del cliente, capacidad de aprender, dato acumulado como defensa y línea base.
+
+**Por decidir:** segmento inicial (¿criterio de intensidad?); qué actividades comerciales puede ejecutar el agente sin humano; condiciones comerciales que Koda podría ofrecer sola; duración y costo de la demo.
 
 ---
 
