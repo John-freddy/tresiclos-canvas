@@ -29,6 +29,18 @@ Y no resuelve ninguno de los dos bien por 4 barreras (observación empírica):
 | Ya probó CRM + bots sueltos sin gobierno | Que el agente IA actúe con límites claros, no como caja negra | Confiar en lo que el agente hizo y por qué |
 | Quiere crecer pero el día a día se lo come; no sabe qué mejorar primero ni si lo que cambió funcionó | Que alguien revise lo que está pasando y me traiga la mejora concreta, con evidencia | Emprender para crecer sin soltar la operación ni contratar una consultora |
 
+**Dos niveles del problema (2026-11-15):**
+- *Plataforma:* las pymes no tienen un modo gobernado de convertir intención, conversaciones y procesos en una operación repetible.
+- *Primera vertical (inmobiliarias):* pierden control y continuidad comercial porque su operación depende de personas clave y herramientas desconectadas.
+
+**El dolor cambia según el rol ⚠️** (observado por el fundador en conversaciones con inmobiliarias y otras empresas; sin registro formal). Tabla por completar:
+
+| Rol | Dolor observado | ¿Decide / paga? |
+|---|---|---|
+| Propietario o gerente | *(por registrar)* | *(por confirmar; en Vecina, ¿gerente y dueño son la misma persona?)* |
+| Director comercial | *(por registrar)* | *(por registrar)* |
+| Responsable de operaciones | *(por registrar)* | *(por registrar)* |
+
 **Eventos disparadores emocionales:**
 "Algo se cayó y ya no puedo seguir operando a pulso." Caso perdido, cliente que se quejó de que "nadie respondió", proceso crítico que dependía de una sola persona.
 

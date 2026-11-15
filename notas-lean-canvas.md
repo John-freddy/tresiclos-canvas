@@ -42,6 +42,8 @@
 | **Cinco funciones del whitepaper** (director de IA, generador, evaluador, control de calidad, supervisor) aplicadas a una pyme | Son roles pensados para una organización de TI grande; la interpretación de que en una pyme se concentran en 1–2 personas + agentes es razonable pero no está validada. En TRESICLOS el "supervisor" sería el producto mismo (Control Tower) | Definir quién cumple cada función en Vecina y cuáles asume el producto |
 | **Fechas del camino vs. estado real** (pendiente de confirmar con John) | Los documentos asumen feedback en ago 2026 y v1 con Vecina ~oct 2026. Al 2026-11-04: feedback en Backlog sin código; la memoria del proyecto indica que solo se usa la BD de desarrollo (sin prod en uso) | Re-fijar fechas del camino con John; no se asume retraso ni causa |
 | Mapa competitivo real (no solo "Monday" como sinécdoque) | En las comparaciones se usó Monday como atajo de "SaaS genérico"; el set relevante para pymes LATAM es más amplio: CRM-WhatsApp (Kommo, HighLevel, Clientify), suites pyme (Zoho, Bitrix24, Odoo), y para el vertical piloto los CRM inmobiliarios (Wasi, Tokko Broker, EasyBroker) — nombres de memoria del modelo, **sin verificar precios/features actuales** | Investigar y armar tabla comparativa real (features vs. 4 barreras, pricing) antes de definir el pitch de octubre 2026 |
+| **Conversaciones con clientes sin registrar** (2026-11-15) | El fundador ha hablado con inmobiliarias y otras empresas con estos problemas y observa que cada rol tiene un dolor distinto. No hay cuántas, quiénes ni qué dijeron | Registrar: rol, empresa, dolor, qué hacen hoy, disposición a pagar. Llena la tabla de canvas §1 y el riesgo 1 de `condiciones-para-ser-empresa.md` |
+| **Categoría candidata (Ries): "sistema operativo de la inmobiliaria asistido por IA"** (2026-11-15); a futuro, "plataforma que convierte la intención del gerente en operación ejecutada y controlada" | Tensiones: estrecha el mensaje a una vertical donde Wasi/Tokko/EasyBroker ganan (inventario, portales) y decide el segmento que se aplazó; deja fuera "aprende" y el comparable COO fraccional; habla del *gerente*, no necesariamente quien paga | Decidir con evidencia de las entrevistas si se posiciona por vertical o por plataforma; mantener "ejecuta y aprende" como promesa |
 
 ---
 
@@ -120,6 +122,8 @@ Análisis condicionado: asume el claim cumplido **con evidencia** (mejora medida
 - Lo que ese resumen no cubre y ya tenemos: voz del cliente, capacidad de aprender, dato acumulado como defensa y línea base.
 
 **Por decidir:** segmento inicial (¿criterio de intensidad?); qué actividades comerciales puede ejecutar el agente sin humano; condiciones comerciales que Koda podría ofrecer sola; duración y costo de la demo.
+
+**Marcos de emprendimiento recibidos (2026-11-15):** Klement (se contrata un progreso: coincide con el JTBD del canvas); Blank (las ideas son hipótesis hasta validarlas con clientes: señala la brecha de validación); Maurya (validar primero los riesgos que matan: tabla en `condiciones-para-ser-empresa.md`); Ries (categoría: ver §2). Aportan método de validación, no capacidades nuevas.
 
 ---
 

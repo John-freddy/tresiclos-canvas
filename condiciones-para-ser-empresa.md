@@ -35,6 +35,19 @@ El precio por tenant cubre costo LLM + infraestructura + costo de adquisición c
 
 ---
 
+## Riesgos que pueden matar el negocio — orden de validación (Maurya, 2026-11-15)
+
+Las 5 condiciones validan construir y cobrar; esta tabla ordena **qué averiguar primero con compradores reales**. Los umbrales de fracaso se fijan antes de salir a validar (por definir).
+
+| # | Riesgo | Evidencia hoy | Experimento propuesto |
+|---|---|---|---|
+| 1 | El dolor no es intenso ni prioritario | Conversaciones informales del fundador con inmobiliarias y otras empresas: el problema existe y el dolor cambia según el rol. **Sin registro** | Entrevistas registradas por rol: qué hicieron la última vez que pasó, cuánto les costó |
+| 2 | Segmento inicial equivocado | Criterio candidato de intensidad (comercial/servicio/operativa); sin medir | Puntuar a cada entrevistado en las 3 dimensiones y ver dónde se concentra el dolor |
+| 3 | El valor concreto no se nota | Sin línea base de Vecina | Línea base + piloto (plan, ítem 5 y 1) |
+| 4 | No confían en dejar actuar a la IA | Gobierno construido (permisos, validación del motor, trazas); no probado con compradores | Preguntar qué dejarían hacer al agente solo y qué no; observarlo con un caso real |
+| 5 | No pagan | Condición 4; sin pricing | Precio explícito en la entrevista; preventa o compromiso escrito |
+| 6 | No se puede implementar de forma repetible | Condición 5; hipótesis Koda configura por conversación (sin verificar) | Onboarding del 2.º cliente midiendo horas humanas |
+
 **Orden importa:** las condiciones 1 → 2 → 3 son secuenciales (validar motor, luego agente diferencial, luego proactividad); 4 y 5 solo tienen sentido después. Intentar el 4 antes del 1-2 es vender la promesa sin el producto — el error clásico.
 
 **Secuencia de construcción canónica:** vive en [`plan-para-cumplir-el-claim.md`](./plan-para-cumplir-el-claim.md) (numeración propia de ese doc): feedback al cierre (ago 2026) → motor en producción (oct 2026) → agente de mejora continua alimentado con datos reales → iniciativa proactiva, con la línea base capturándose desde ya. La condición 1 de aquí se valida cuando ese plan llega a su paso 1; la condición 2, en su paso 3; la 3, en su paso 4.
